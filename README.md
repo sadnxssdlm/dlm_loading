@@ -1,2 +1,3 @@
-# dlm_loading
-This is my first fivem loading-screen
+# DLM LOADING 
+
+This is a personal project for my web development learning, a work in progress...
